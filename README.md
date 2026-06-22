@@ -33,4 +33,4 @@
 
 ### yhoni_cake0.2 🦖🫐 
 
-### Linkedin: https://www.linkedin.com/in/jonathan-israel-reyes-m%C3%A9ndez-257b58318/
+### Linkedin: (https://www.linkedin.com/in/jonathan-israel-reyes-mendez/)

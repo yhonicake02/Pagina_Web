@@ -1,10 +1,10 @@
-# Pagina Web de yhoniAlucin0.2 🦖🫐 
+# Pagina Web de yhoni_cake0.2 🦖🫐 
 
 ¡Hola, bienvenido a mi pagina web!
 
 ## 🖼️ Vista Previa
 
-![Captura de pantalla](assets/Pagina_web.png)
+![Captura de pantalla](assets/Pagina_Web.png)
 
 ## 🚀 Herramientas utilizadas:
 
@@ -29,8 +29,8 @@
 3. Desplazate entre secciones con la navbar
 4. Listo! ahora Ya! me conoces
 
-## Desarrollado con 😁💛 por:
+## Desarrollado con love por:
 
-### yhoniAlucin0.2 🦖🫐 
+### yhoni_cake0.2 🦖🫐 
 
 ### Linkedin: https://www.linkedin.com/in/jonathan-israel-reyes-m%C3%A9ndez-257b58318/

@@ -24,7 +24,7 @@
 ## 🎲 Cómo usarlo
 
 1. Ingresa en este enlace:
-   https://pagina-web-yhoni-alucin0-2.vercel.app/
+   (https://yhonicake02.github.io/Pagina_Web/)
 2. Ve mi informacion
 3. Desplazate entre secciones con la navbar
 4. Listo! ahora Ya! me conoces

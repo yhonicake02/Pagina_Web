@@ -4,7 +4,7 @@
 
 ## 🖼️ Vista Previa
 
-![Captura de pantalla](assets/Pagina_Web.png)
+![Captura de pantalla](assets/Pagina_Web.jpeg)
 
 ## 🚀 Herramientas utilizadas:
 
